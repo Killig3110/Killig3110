@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killig3110&label=Profile%20views&color=0e75b6&style=flat" alt="killig3110" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killig3110" alt="killig3110" /></a> </p>
-
 - 📝 I regularly write articles on [https://www.facebook.com/killig.3110](https://www.facebook.com/killig.3110)
 
 - 📫 How to reach me **killig.3110@gmail.com**

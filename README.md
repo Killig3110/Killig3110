@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huynh Thanh Duy</h1>
 <h3 align="center">A Sophomore at HCMC University of Technology and Education</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killig3110&label=Profile%20views&color=0e75b6&style=flat" alt="killig3110" /> </p>
-
 - 📝 I regularly write articles on [https://www.facebook.com/killig.3110](https://www.facebook.com/killig.3110)
 
 - 📫 How to reach me **killig.3110@gmail.com**

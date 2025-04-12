@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huynh Thanh Duy</h1>
-<h3 align="center">A Sophomore at HCMC University of Technology and Education</h3>
+<h3 align="center">A Student at HCMC University of Technology and Education</h3>
 
 - 📝 I regularly write articles on [https://www.facebook.com/killig.3110](https://www.facebook.com/killig.3110)
 

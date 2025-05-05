@@ -1,47 +1,43 @@
+<!-- HEADER AVATAR & INTRO -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
-  <h1>Hi 👋, I'm Huynh Thanh Duy</h1>
-  <h3>A Student at HCMC University of Technology and Education</h3>
-  <p>💻 Passionate about building software, exploring tech, and sharing knowledge.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Huynh+Thanh+Duy;Developer+%7C+Student+%7C+Tech+Lover;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+
+  <h2>A Student at HCMC University of Technology and Education 👨‍🎓</h2>
+  <p>📌 I'm passionate about fullstack dev, Android, AI, and sharing useful stuff!</p>
 </div>
 
+## 📫 Contact me
 
-### 📬 Contact me
 <p align="center">
   <a href="https://fb.com/killig.3110"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/thanhdii.3110"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:killig.3110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### ⚙️ Languages and Tools
+## 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,py,cpp,cs,js,ts,html,css,react,vue,nodejs,express,mongodb,mysql,firebase,docker,git,github,spring,tailwind,bootstrap,redis,dotnet" />
 </p>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killig3110&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killig3110&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=killig3110&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killig3110&layout=compact&theme=radical" height="200"/>
 </p>
 
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killig3110&theme=radical" height="200"/>
+</p>
+
+## 🌐 Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/killig3110/count.svg" />
+</p>

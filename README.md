@@ -1,43 +1,68 @@
-<!-- HEADER AVATAR & INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Huynh+Thanh+Duy;Developer+%7C+Student+%7C+Tech+Lover;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 
-  <h2>A Student at HCMC University of Technology and Education 👨‍🎓</h2>
-  <p>📌 I'm passionate about fullstack dev, Android, AI, and sharing useful stuff!</p>
+# Hi 👋 I'm Huỳnh Thanh Duy
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJzYndyMmZhY2JjdjNnc2U2ZHM3b2R5OHJ5d2x2OGpqd3Z4NWRmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+
+🎓 **Final-year Software Engineering Student**  
+🏫 **HCMC University of Technology and Education (HCMUTE)**
+
+💻 Backend • Full-stack • AI / NLP  
+🚀 Love building real-world systems
+
 </div>
 
-## 📫 Contact me
+---
 
-<p align="center">
-  <a href="https://fb.com/killig.3110"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/thanhdii.3110"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:killig.3110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 👨‍💻 About Me
 
-## 🛠️ Languages & Tools
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,py,cpp,cs,js,ts,html,css,react,vue,nodejs,express,mongodb,mysql,firebase,docker,git,github,spring,tailwind,bootstrap,redis,dotnet" />
-</p>
+- Final-year **Software Engineering** student  
+- Interested in:
+  - Backend & Microservices
+  - Distributed Systems
+  - AI / NLP (CV–JD Matching)
+- Strong focus on **clean architecture & scalability**
+- Hands-on project oriented
 
-## 📈 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killig3110&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killig3110&layout=compact&theme=radical" height="200"/>
-</p>
+## 🛠️ Languages & Technologies
 
+| Programming Languages | Backend | Frontend | Databases | Tools & DevOps |
+|----------------------|---------|----------|-----------|----------------|
+| Java                 | Spring Boot | React     | MySQL     | Git / GitHub |
+| Python               | Node.js     | Vue       | MongoDB  | Docker |
+| JavaScript           | Express.js  | HTML / CSS | Redis   | Firebase |
+| TypeScript           | REST API    |           |           | Linux |
+| C / C++              | Microservices |        |           | |
+| C#                   |             |           |           | |
+****
 
-## 🔥 Contribution Streak
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killig3110&theme=radical" height="200"/>
-</p>
+## 📂 Projects
 
-## 🌐 Visitors
+<img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="300"/>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/killig3110/count.svg" />
-</p>
+- Building Management System
+- CV – Job Matching Platform (AI-based)
+- Microservices Backend Systems
+- Full-stack Web Applications
+
+(Details available in repositories)
+
+---
+
+## 📫 Contact Me
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+
+- Facebook: https://fb.com/killig.3110  
+- Instagram: https://instagram.com/thanhdii.3110  
+- Email: killig.3110@gmail.com  
+
+---
+
+✨ Thanks for visiting my GitHub profile ✨

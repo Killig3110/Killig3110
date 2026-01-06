@@ -204,21 +204,6 @@ me.say_hi()
 <div align="center">
 <sub>💡 More projects available in my repositories!</sub>
 </div>
-
----
-
-## � GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Killig3110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Killig3110&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killig3110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Killig3110&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="49%" />
-
-</div>
-
 ---
 
 ## �📫 Let's Connect!

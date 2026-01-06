@@ -204,7 +204,6 @@ me.say_hi()
 <div align="center">
 <sub>💡 More projects available in my repositories!</sub>
 </div>
----
 
 ## �📫 Let's Connect!
 

@@ -1,243 +1,161 @@
+<!-- ===================== BANNER (auto light / dark) ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Thanh+Duy;Software+Engineer+%F0%9F%92%BB;Full-stack+Developer+%F0%9F%9A%80;Backend+Specialist+%E2%9A%A1" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" alt="Huỳnh Thanh Duy — Software Engineer" width="100%">
+</picture>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coder GIF"/>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=600&color=F75C7E&center=true&vCenter=true&width=620&lines=%3E+Software+Engineer;%3E+Backend+Specialist;%3E+Microservices+Nerd;%3E+AI%2FNLP+Tinkerer" alt="Typing roles" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/status-shipping_code-7EE7C7?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/open_to-cool_projects-F2CC60?style=flat-square&labelColor=0D1117" />
+</p>
+
+<i>I build backend systems that scale — Spring Boot, Node.js, microservices — and love plugging AI into real products.</i>
 
 </div>
 
 <br/>
 
+<!-- ===================== BENTO / AT A GLANCE ===================== -->
 <table>
 <tr>
-<td width="50%">
-
-### 👨‍💻 About Me
+<td width="50%" valign="top">
 
 ```python
-class ThanhDuy:
-    def __init__(self):
-        self.name = "Huỳnh Thanh Duy"
-        self.role = "Software Engineer"
-        self.school = "HCMUTE"
-        self.year = "Final Year"
-        self.languages = ["Java", "Python", "JavaScript"]
-        self.interests = [
-            "Backend Development",
-            "Microservices",
-            "AI/ML & NLP",
-            "System Design"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! 🌟")
+class ThanhDuy(Engineer):
+    role   = "Software Engineer"
+    school = "HCMUTE"
+    stack  = ["Java", "Python", "JS"]
+    loves  = ["Backend",
+              "Microservices",
+              "AI / NLP",
+              "System Design"]
 
-me = ThanhDuy()
-me.say_hi()
+    def motto(self):
+        return "learn → build → ship"
 ```
 
-🎯 Building scalable systems with clean code  
-💡 Always learning, always growing
-
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+#### 🩷 Now
+**Software Engineer @ Amaris Consulting**<br/>
+Consulting on a Bosch project
 
-### 🎓 Education
-**HCMC University of Technology and Education**  
-🔹 Software Engineering (Final Year)  
-🔹 Focus: Backend & Distributed Systems
+#### 🌱 Learning
+Microservices architecture
 
-### 🌱 Currently
-- 🔭 Working on AI-powered job matching
-- 🌱 Learning microservices architecture
-- 💬 Ask me about Spring Boot, Node.js
+#### 💬 Ask me about
+Spring Boot · Node.js · System design
+
+#### 🔢 By the numbers
+**6** programming languages · **24** tools in the belt
 
 </td>
 </tr>
 </table>
 
----
+<!-- ===================== TOOLBOX ===================== -->
+## 🧰 The toolbox
 
-## � Tech Stack
+| | |
+|:--|:--|
+| **languages** | ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-30363D?style=for-the-badge&logo=express&logoColor=white) |
+| **frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **data** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **devops & tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
 
-<div align="center">
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Things I've built
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
+<td width="50%" valign="top">
+
+`01` · **AI · NLP**
+### CV – Job Matching Platform
+Matches candidates to jobs with NLP — smart ranking and automated screening.
+
+`Python` `NLP` `ML`
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br>C#
+<td width="50%" valign="top">
+
+`02` · **FULL-STACK**
+### Building Management System
+Real-time monitoring and automated workflows for managing buildings.
+
+`Spring Boot` `React` `MySQL`
+
 </td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br>Spring Boot
+<td width="50%" valign="top">
+
+`03` · **DISTRIBUTED**
+### Microservices Backend
+Clean-architecture services built for high availability and scale.
+
+`Spring Boot` `Docker` `Redis` `MongoDB`
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-<br>Vue.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
-<br>npm
+<td width="50%" valign="top">
+
+`04` · **WEB**
+### Full-stack Web Apps
+Responsive apps with clean UI and well-structured RESTful APIs.
+
+`React/Vue` `Node.js` `Express`
+
 </td>
 </tr>
 </table>
 
-</div>
+<div align="right"><a href="https://github.com/Killig3110?tab=repositories">all repos →</a></div>
 
----
-
-## � Featured Projects
-
-<div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</div>
-
-### 🏢 Building Management System
-> Comprehensive system for managing buildings with modern architecture
-- 🔧 **Tech:** Spring Boot, React, MySQL
-- ✨ **Features:** Real-time monitoring, automated workflows
-
-### 🤖 CV – Job Matching Platform (AI-based)
-> Intelligent platform matching candidates with jobs using NLP
-- 🧠 **Tech:** Python, NLP, Machine Learning
-- 🎯 **Impact:** Smart matching algorithm, automated screening
-
-### ⚡ Microservices Backend Systems
-> Scalable distributed systems with clean architecture
-- 🏗️ **Tech:** Spring Boot, Docker, Redis, MongoDB
-- 🚀 **Focus:** High availability, scalability, maintainability
-
-### 🌐 Full-stack Web Applications
-> Modern responsive web apps with great UX
-- 💡 **Tech:** React/Vue, Node.js, Express
-- 🎨 **Highlight:** Clean UI/UX, RESTful APIs
-
-<div align="center">
-<sub>💡 More projects available in my repositories!</sub>
-</div>
-
-## �📫 Let's Connect!
+<!-- ===================== STATS (auto light / dark) ===================== -->
+## 📈 GitHub activity
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Killig3110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Killig3110&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Killig3110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killig3110&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</picture>
 
-### 💬 Feel free to reach out!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Killig3110&theme=radical&hide_border=true&background=0D1117">
+  <img src="https://streak-stats.demolab.com?user=Killig3110&theme=default&hide_border=true" alt="GitHub streak" />
+</picture>
+
+</div>
+
+<!-- ===================== CONNECT ===================== -->
+## 💌 Let's build something cool.
 
 <p>
-<a href="https://fb.com/killig.3110">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/thanhdii.3110">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:killig.3110@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="mailto:killig.3110@gmail.com"><img src="https://img.shields.io/badge/killig.3110@gmail.com-F75C7E?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=F75C7E" /></a>
+  <a href="https://fb.com/killig.3110"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/thanhdii.3110"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Killig3110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<br>
+<div align="center">
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="150" />
+<sub>thanks for dropping by 🩷 happy coding</sub>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-
-**Thanks for visiting!** 🌟 **Happy Coding!** 💻✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Killig3110&color=F75C7E&style=flat-square&label=profile+views)
 
 </div>
